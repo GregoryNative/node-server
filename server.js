@@ -31,7 +31,7 @@ app.get('/about', middleware.requireAuthentication, (request, response) => {
     <!DOCTYPE html> \
     <html> \
       <body> \
-        <h1 style="color:blue;">About Page</h1> \
+        <h1 style="color:blue;">About Us!</h1> \
       </body> \
     </html> \
     ')
